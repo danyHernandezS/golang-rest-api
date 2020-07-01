@@ -1,1 +1,1 @@
-docker build --no-cache -t dang11c/golang-rest-API .
+docker build --no-cache -t dang11c/golang-rest-api .
